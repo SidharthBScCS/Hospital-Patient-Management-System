@@ -13,7 +13,7 @@ The Hospital Patient Record Management System is a software solution designed to
 - **emergencyQueue** -> Priority queue to manage emergency patients
 
 
-**Class: PatientRecordManagementSystem**
+## **Class: PatientRecordManagementSystem**
 - **insertPatient()** -> Inserts a new patient into the linked list
 - **deletePatient()** -> Deletes a patient by ID
 - **retrievePatient()** -> Retrieves patient details by ID
@@ -24,7 +24,7 @@ The Hospital Patient Record Management System is a software solution designed to
 - **evaluateInventory()** -> Evaluates postfix expressions
 
 
-**main()**
+## **main()**
 Implements a menu-driven interface using switch-case to allow users to: 
 - Add,delete and view patient details
 - Undo the last admission
