@@ -74,7 +74,7 @@ Implements a menu-driven interface using switch-case to allow users to:
 
 
 ## **Student Details** 
-- **Nam**        ->      Sidharth Krishna S
+- **Name**        ->      Sidharth Krishna S
 - **Roll No**   ->      2401720003
 - **Course**     ->      BSc Computer Science
 - **Semester**   ->      3rd
